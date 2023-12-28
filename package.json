@@ -1,0 +1,11 @@
+{
+  "name": "my-textlint-environment",
+  "scripts": {
+    "lint": "textlint ./docs/**/*.md"
+  },
+  "devDependencies": {
+    "textlint": "13.4.1",
+    "textlint-rule-preset-ja-technical-writing": "9.0.0",
+    "textlint-rule-preset-japanese": "9.0.0"
+  }
+}
